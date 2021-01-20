@@ -1,4 +1,5 @@
 {
+  "homepage": "https://yomarguti.github.io/manipulacion-dom-platzi",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
